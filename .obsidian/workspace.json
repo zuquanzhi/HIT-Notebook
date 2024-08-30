@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1549a28009c46060",
+        "id": "08043964fb88d7c9",
         "type": "tabs",
         "children": [
           {
-            "id": "11c5e3e606094bb0",
+            "id": "bd7019e63202c85b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data-Structure/SQList.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data-Structure/SQList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data-Structure/SQList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data-Structure/SQList.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "11c5e3e606094bb0",
+  "active": "bd7019e63202c85b",
   "lastOpenFiles": [
-    "近代史纲要.md",
-    "Data-Structure/SQList.md"
+    "Data-Structure/SQList.md",
+    "近代史纲要.md"
   ]
 }
