@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data-Structure/SQList.md",
+                "file": "Data-Structure/ADT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data-Structure/SQList.md",
+                "file": "Data-Structure/ADT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data-Structure/SQList.md",
+                "file": "Data-Structure/ADT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data-Structure/SQList.md"
+                "file": "Data-Structure/ADT.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "bd7019e63202c85b",
   "lastOpenFiles": [
-    "README.md",
     "Data-Structure/SQList.md",
+    "Data-Structure/ADT.md",
+    "README.md",
     "近代史纲要.md"
   ]
 }
